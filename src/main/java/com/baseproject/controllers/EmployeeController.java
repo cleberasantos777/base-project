@@ -13,7 +13,7 @@ public class EmployeeController {
 	@Autowired
 	EmployeeRepository er;
 	
-	/**
+	/*
 	@PostMapping
 	public ResponseEntity<EmployeeEntity> createNewEmployee(){
 		
